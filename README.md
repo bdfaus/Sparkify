@@ -26,5 +26,7 @@ A fuller discussion of results can be found at https://medium.com/@ben.faus/pred
 \*\*Findspark is Windows specific and helps with proper integration of PySpark with Jupyter
 
 
-## Possible Improvements
+## Conclusion & Possible Improvements
+The final machine learning model successfully predicted 20% of the users in the 12gb data set who would downgrade their service in the next two weeks.
+
 The creator of this project has limited finances to use on AWS, so tuning and model tinkering were relatively limited due to limited computing power. More financial expenditure could allow for more computing power and thus more extensive models and parameter grids to be tested.
